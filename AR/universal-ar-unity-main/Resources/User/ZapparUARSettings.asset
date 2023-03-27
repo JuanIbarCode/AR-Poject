@@ -16,7 +16,7 @@ MonoBehaviour:
   m_enableImageTargetPreview: 1
   m_excludeZPTFromBuild: 0
   m_concurrentFaceTrackerCount: 1
-  m_permissionRequestUI: 1
+  m_permissionRequestUI: 0
   m_enableRealtimeReflections: 0
   m_debugMode: 2
   m_logLevel: 2
